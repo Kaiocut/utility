@@ -19,12 +19,12 @@ O Utility é um utilitário em Shell Script para realizar verificações de segu
 git clone https://github.com/Kaiocut/utility.git
 ```
 
-Dê permissão de execução ao script:
-bash
-Copiar código
-chmod +x security-utility-script.sh
-Uso
-Execute o script diretamente pelo terminal
+```sh
+cd utility/ && chmod +x utility.sh
+```
+```sh
+./utility.sh
+```
 
 Licença
 Este projeto está licenciado sob a licença MIT - veja o arquivo LICENSE para mais detalhes.
