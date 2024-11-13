@@ -28,6 +28,3 @@ Execute o script diretamente pelo terminal
 
 Licença
 Este projeto está licenciado sob a licença MIT - veja o arquivo LICENSE para mais detalhes.
-
-Contato
-Criado por Kaio Manoel - Sinta-se à vontade para entrar em contato.
