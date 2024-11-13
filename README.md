@@ -14,7 +14,7 @@ O Utility é um utilitário em Shell Script para realizar verificações de segu
 - **Whois:** Necessário para consulta WHOIS.
 - **Curl:** Utilizado para verificar o status da página XML-RPC.
 
-# Instalação
+# Instalação e Uso
 ```sh
 git clone https://github.com/Kaiocut/utility.git
 ```
