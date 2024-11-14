@@ -1,5 +1,5 @@
 <h1 align="center">UTILITY</h1>
-<h4 align="center">Descrição</h4>
+# Descrição
 O Utility é um utilitário em Shell Script para realizar verificações de segurança em domínios, incluindo registros SPF, informações WHOIS e presença de XML-RPC. Oferecendo um menu com várias funcionalidades de verificação para auxiliar profissionais de segurança da informação.
 
 # Funcionalidades
